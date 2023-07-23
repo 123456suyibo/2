@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head> 
+
+<p>温馨提示:此网站适宜人群范围:0~3岁</p>
+<body>
+    
+    <div style="
+    background-color: bisque;
+    text-align: center;
+    padding: 80px;
+        
+        
+        
+    "
+    
+    
+    
+    >
+     <img src='https://s1.ax1x.com/2023/07/21/pCHv17q.png' alt="SYB的网址" width="200px" height="200px">
+    <A>SYB的网址</A>
+    
+     
+      </elenent>
+    </div>
+    
+
+     <div style="
+     background-color: bisque;
+     text-align: center;
+     padding: 80px;
+    font-size: 18px;
+   
+    ">
+    <p>你好</p>
+    <p></p>   
+    <a href="https://image.so.com/i?src=360pic_strong&z=1&i=0&cmg=15484592.3006435146117021000.1666407680370.7485&q=%E5%B0%8F%E7%8C%AA%E5%9B%BE%E7%89%87">点击查看自己</a>
+    </div>
+   
+
+     </div>
+     <div style="
+     background-color: bisque;
+     text-align: center;
+     padding: 80px;
+    font-size: 18px; 
+    ">
+    <a href="index2.html">下一页</a>
+      
+
+
+     </div>
+    
+
+
+    </body>
+</html>
